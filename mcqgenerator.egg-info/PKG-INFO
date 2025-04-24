@@ -3,7 +3,7 @@ Name: mcqgenerator
 Version: 0.0.1
 Author: ranjeet jb
 Author-email: ranjeetjaryalbhattbhatt@gmail.com
-Requires-Dist: openai
+Requires-Dist: genai
 Requires-Dist: langchain
 Requires-Dist: streamlit
 Requires-Dist: python-dotenv
